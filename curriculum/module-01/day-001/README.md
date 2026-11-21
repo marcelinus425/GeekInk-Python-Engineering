@@ -1,5 +1,5 @@
-# Day 001: Welcome to Python
-
+python
+Engineeriing
 ## Learning Objectives
 
 - Understand what Python is and why it is widely used in software engineering.
@@ -12,11 +12,7 @@
 
 Python is one of the most popular programming languages in the world. It is used in web development, data science, automation, artificial intelligence, and many other fields. Companies like Google, Netflix, and Instagram use Python in their technology stacks. Its clear syntax and readability make it an excellent first language for beginners.
 
-Learning Python is not just about learning a programming language. It is about developing the ability to think logically, break problems into smaller parts, and build solutions that work. Throughout this 100-day bootcamp, you will go from writing your first line of code to building complete software applications.
-
-In this first lesson, you will set up your development environment, understand how Python executes code, and write your very first program.
-
-## Concepts
+Learning Python is not just about learning a programming language. It is about developing the ability to think logically, break problems into smaller parts, and build solutions that work. Throughout this 100-day bootcamp, you will go from writing your first line of code to building complete software
 
 ### What is Python?
 
